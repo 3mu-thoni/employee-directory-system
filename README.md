@@ -35,9 +35,6 @@ Displays employees in a structured table showing:
 
 The system uses **pagination (10 records per page)** to improve performance when handling large datasets.
 
-
-
-
 ### 2. Search Functionality
 
 Users can search employees by name using:
