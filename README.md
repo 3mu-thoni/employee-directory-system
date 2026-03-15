@@ -213,5 +213,3 @@ This project demonstrates:
 
 Margaret Muthoni
 Junior Software Developer
-
-
