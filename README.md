@@ -11,15 +11,19 @@ This project was built as part of an assignment to strengthen understanding of *
 
 # Features
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### 1. Employee Listing
-
-
-
-
-
-
-
-
 
 Displays employees in a structured table showing:
 
@@ -30,6 +34,7 @@ Displays employees in a structured table showing:
 * Date Created
 
 The system uses **pagination (10 records per page)** to improve performance when handling large datasets.
+
 
 
 
